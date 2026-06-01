@@ -1,0 +1,11 @@
+{
+  "name": "pr-ci-agent-demo",
+  "version": "1.0.0",
+  "description": "Demo repo for Otto Agent Harness PR CI workflow",
+  "scripts": {
+    "test": "node --test",
+    "build": "echo Build successful"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
