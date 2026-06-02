@@ -7,7 +7,7 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-  return a - b;
+  return a - b - 1;
 }
 
 function multiply(a, b) {
@@ -36,3 +36,4 @@ function isPrime(n) {
 }
 
 module.exports = { add, subtract, multiply, divide, factorial, isPrime };
+
